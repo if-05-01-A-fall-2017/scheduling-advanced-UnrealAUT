@@ -1,0 +1,9 @@
+1. 6 times
+
+2. process A will be taken because it completes in a shorter time
+
+3. cpu bound processes have no input from the user | i/o bound processes have to wait for user input
+   it is important to distinguish between them because cpu bound processes need low priority and large quantas
+   and io bound processes need high priority and small quantas
+
+4. the largest value would be 12,5
